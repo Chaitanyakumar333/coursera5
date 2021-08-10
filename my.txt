@@ -1,0 +1,7 @@
+https://www.geeksforgeeks.org/timestamp-based-concurrency-control/
+https://www.javatpoint.com/dbms-join-operation
+https://www.geeksforgeeks.org/validation-based-protocol-in-dbms/
+https://www.tutorialspoint.com/dbms/dbms_concurrency_control.htm
+https://www.geeksforgeeks.org/constraints-on-relational-database-model/
+https://www.geeksforgeeks.org/difference-between-conflict-and-view-serializability/
+https://www.geeksforgeeks.org/insertion-in-a-b-tree/
